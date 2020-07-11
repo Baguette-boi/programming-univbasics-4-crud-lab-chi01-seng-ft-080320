@@ -19,7 +19,7 @@ end
 
 def remove_element_from_end_of_array(array)
   alphabet = ['a','b','c','d', 'arrays!']
-  
+  arrays! = alphabet.pop
 end
 
 def remove_element_from_start_of_array(array)
